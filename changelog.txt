@@ -1,0 +1,19 @@
+*** Paradise Cove App Changelog ***
+
+ 2014.04.02 - version 1.0.1
+ * minor changes
+	paradise-cove-parent/js/advanced.js
+	paradise-cove-parent/content-single-amenity.php
+	paradise-cove-parent/content-single-offer.php
+	paradise-cove-parent/content-single-room.php
+	paradise-cove-parent/content-single.php
+	paradise-cove-parent/functions.php
+	paradise-cove-parent/header.php
+	paradise-cove-parent/listing-blog.php
+	paradise-cove-parent/single-amenity.php
+	paradise-cove-parent/single-offer.php
+	paradise-cove-parent/single-room.php
+	paradise-cove-parent/single.php
+
+ 2014.01.24 - version 1.0
+ * First release!

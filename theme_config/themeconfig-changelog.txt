@@ -1,0 +1,19 @@
+*** Theme Config Changelog ***
+
+ 2014.04.02 - version 1.0.1
+ * minor fixed for local time
+	paradise-cove-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ * minor fixed for info tabs
+	paradise-cove-parent/theme_config/extensions/slider/designs/info/template.php
+ * fixed fahrenheit conversion
+	paradise-cove-parent/theme_config/extensions/shortcodes/shortcodes/weather.php
+	paradise-cove-parent/theme_config/theme_includes/AJAX_CALLBACKS.php
+ * minor changes
+	paradise-cove-parent/theme_config/config/theme_config.php
+	paradise-cove-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php
+	paradise-cove-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ * minor changes for dependency between datepicker dates
+	paradise-cove-parent/theme_config/extensions/shortcodes/shortcodes/room_types.php
+
+ 2014.01.24 - version 1.0
+ * First release!
