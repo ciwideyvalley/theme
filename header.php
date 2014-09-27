@@ -51,7 +51,7 @@
                 </nav>
             </div>   
         </div>
-        <?php //tfuse_type_logo();?>
+        <?php tfuse_type_logo();?>
         <?php  tfuse_header_content('header');?>
         <?php  //tfuse_header_content('bottom');?>
 <?php if($is_tf_blog_page) tfuse_category_on_blog_page();?>
