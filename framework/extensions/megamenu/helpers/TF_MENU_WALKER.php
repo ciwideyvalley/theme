@@ -177,7 +177,7 @@ class TF_ADMIN_MENU_WALKER extends Walker_Nav_Menu {
 
     public function __construct()
     {
-        $this->framework =& get_instance();
+        $this->framework = get_instance();
     }
 
     function start_lvl(&$output, $depth = 0, $args = array() ) {
