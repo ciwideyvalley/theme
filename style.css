@@ -80,6 +80,9 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	font: inherit;
 	vertical-align: baseline; 
 }
+nav{
+    font-size: 107%;
+}
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block
 }
@@ -902,7 +905,6 @@ p.wp-caption-text, .frame_caption {
     z-index: 100;
     padding: 25px 0 0 20px;
     float: left;
-    font-size: 107%;
 }
 .ie7 .dropdown,
 .ie7 .dropdown li{
