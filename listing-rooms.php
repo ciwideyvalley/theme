@@ -29,7 +29,7 @@ $slider_images = tfuse_aasort($slider_images,'order');
         </div>
         <?php if(!empty($tags)):?>
             <div class="amenities-list">
-                <h3><?php _e('Room Amenities','tfuse'); ?></h3>
+                <!-- <h3><?php _e('Room Amenities','tfuse'); ?></h3>
                 <div class="icons_carousel">
                     <ul id="room<?php echo $post->ID;?>-amenities">
                         <?php foreach ($tags as $key => $value) { ?>
@@ -38,7 +38,7 @@ $slider_images = tfuse_aasort($slider_images,'order');
                     </ul>
                     <a class="prev" href="#" id="room<?php echo $post->ID;?>-amenities_prev"><span class="icon icon-angle-left"></span></a>
                     <a class="next" href="#" id="room<?php echo $post->ID;?>-amenities_next"><span class="icon icon-angle-right"></span></a>
-                </div>
+                </div> -->
                 <script>
                     jQuery(document).ready(function($) {
                         jQuery('#room<?php echo $post->ID;?>-amenities').carouFredSel({
