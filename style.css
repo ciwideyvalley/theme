@@ -880,7 +880,6 @@ p.wp-caption-text, .frame_caption {
     border-bottom: 8px solid #000;
     position: relative;
     z-index: 100;
-    font-size: 107%;
 }
 .header .container {
     height: 62px;
@@ -903,6 +902,7 @@ p.wp-caption-text, .frame_caption {
     z-index: 100;
     padding: 25px 0 0 20px;
     float: left;
+    font-size: 107%;
 }
 .ie7 .dropdown,
 .ie7 .dropdown li{
