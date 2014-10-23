@@ -880,6 +880,7 @@ p.wp-caption-text, .frame_caption {
     border-bottom: 8px solid #000;
     position: relative;
     z-index: 100;
+    font-size: 107%;
 }
 .header .container {
     height: 62px;
